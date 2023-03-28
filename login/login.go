@@ -1,5 +1,5 @@
 package jwt
 
-func login() string {
+func Login() string {
 	return "success"
 }
